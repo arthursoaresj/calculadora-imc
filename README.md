@@ -10,7 +10,7 @@ Projeto desenvolvido em Python utilizando Tkinter para cálculo de IMC com inter
 * ✅ Tratamento de erros
 * ✅ Classificação automática do IMC
 * ✅ Interface moderna e intuitiva
-* 
+  
 
 ##### 📊 Classificações
 
@@ -20,13 +20,13 @@ Projeto desenvolvido em Python utilizando Tkinter para cálculo de IMC com inter
 * Saudável
 * Sobrepeso
 * Obesidade grau 1, 2 e 3
-* 
+  
 
 ##### 🛠 Tecnologias utilizadas
 
 * Python 3
 * Tkinter
-* 
+  
 
 ##### ▶ Como executar
 
